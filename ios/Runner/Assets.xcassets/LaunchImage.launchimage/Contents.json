@@ -1,0 +1,366 @@
+{
+  "images" : [
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "2688h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "landscape",
+      "scale" : "3x",
+      "subtype" : "2688h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "1792h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "landscape",
+      "scale" : "2x",
+      "subtype" : "1792h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "12.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "2388h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "12.0",
+      "orientation" : "landscape",
+      "scale" : "2x",
+      "subtype" : "2388h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "11.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "2436h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "11.0",
+      "orientation" : "landscape",
+      "scale" : "3x",
+      "subtype" : "2436h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "10.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "2224h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "10.0",
+      "orientation" : "landscape",
+      "scale" : "2x",
+      "subtype" : "2224h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "9.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "1366h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "9.0",
+      "orientation" : "landscape",
+      "scale" : "2x",
+      "subtype" : "1366h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "landscape",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "667h"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "landscape",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "landscape",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "extent" : "to-status-bar",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "to-status-bar",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "to-status-bar",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "to-status-bar",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "AppleWatch-Icon-24@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "AppleWatch-Icon-27.5@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "AppleWatch-Icon-29@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "AppleWatch-Icon-29@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "AppleWatch-Icon-40@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "AppleWatch-Icon-44@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "AppleWatch-Icon-86@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "AppleWatch-Icon-98@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-20.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-20@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-20@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-29.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-29@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-29@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-40.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-40@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-40@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-50.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-50@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-57.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-57@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-60@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-60@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-72.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-72@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-76.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-76@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-83.5@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "iTunesArtwork-1024.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "logo@1x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "logo@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "logo@3x.png",
+      "unassigned" : true
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
